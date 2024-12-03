@@ -116,3 +116,5 @@ __pycache__
 .pytest_cache
 results-out.xml
 .DS_Store
+
+.idea
